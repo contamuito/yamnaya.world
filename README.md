@@ -1,2 +1,2 @@
-# yamnaya.world
+# 
 cyberresenha
